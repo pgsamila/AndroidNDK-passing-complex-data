@@ -1,4 +1,4 @@
 
 "squid:ClassVariableVisibilityCheck"YMake sampleBoolean a static final constant or non-public and provide accessors if needed.(“¯¤”8áöó±-
-"squid:ClassVariableVisibilityCheck"XMake sampleString a static final constant or non-public and provide accessors if needed.(âéĞ´8áöó±-
 Š"squid:ClassVariableVisibilityCheck"UMake sampleInt a static final constant or non-public and provide accessors if needed.(¼èíÁ8áöó±-
+"squid:ClassVariableVisibilityCheck"XMake sampleString a static final constant or non-public and provide accessors if needed.(âéĞ´8áöó±-

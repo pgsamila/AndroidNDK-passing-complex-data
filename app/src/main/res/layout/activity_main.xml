@@ -57,7 +57,7 @@
                 android:onClick="onPassObjectToJNI"/>
 
             <TextView
-                android:id="@+id/textView3"
+                android:id="@+id/textViewPassObjectToJNI"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="" />
@@ -68,13 +68,13 @@
             android:layout_height="match_parent">
 
             <Button
-                android:id="@+id/button4"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Get Object From JNI" />
+                android:text="Get Object From JNI"
+                android:onClick="onGetObjectFromJNI"/>
 
             <TextView
-                android:id="@+id/textView4"
+                android:id="@+id/textViewGetObjectFromJNI"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="" />
@@ -85,13 +85,13 @@
             android:layout_height="match_parent">
 
             <Button
-                android:id="@+id/button5"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Call Back From JNI" />
+                android:text="Call Back From JNI"
+                android:onClick="onCallBackFromJNIClicked"/>
 
             <TextView
-                android:id="@+id/textView5"
+                android:id="@+id/textViewCallBackFromJNI"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="" />
